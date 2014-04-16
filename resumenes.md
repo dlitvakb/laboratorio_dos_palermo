@@ -16,3 +16,8 @@
 
 # Clase Cuatro:
 * Cursores
+
+# Clase Cinco:
+* Manejo de errores
+* Colecciones
+* Tablas en memoria

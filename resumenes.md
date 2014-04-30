@@ -21,3 +21,7 @@
 * Manejo de errores
 * Colecciones
 * Tablas en memoria
+
+# Clase Siete:
+* Stored Procedures
+* Funciones

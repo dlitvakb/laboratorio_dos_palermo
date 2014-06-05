@@ -33,3 +33,6 @@
 * Sobrecarga
 * Forward Declaration
 * One Time Only
+
+# Clase Once:
+* Triggers
